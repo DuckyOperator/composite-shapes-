@@ -36,7 +36,7 @@ void setup() {
   mouthY1 = displayHeight*3/4;
   mouthX2 = rightEyeX;
   mouthY2 = mouthY1;
-  mouthThick = 50;
+  mouthThick = 38;
   reset = 1;
   //
   //
